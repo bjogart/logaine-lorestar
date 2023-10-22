@@ -46,6 +46,7 @@ html {
 
 @media all and (max-width: 520px) {
   html {
+    margin: 1.6rem 1rem 10rem 1rem;
     font-size: 18px;
   }
 }
