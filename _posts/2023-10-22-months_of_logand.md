@@ -37,7 +37,7 @@ and the full calendar counts 365 days.
 |  13 | Heffyn    |   28 | Dec 03--Dec 30 |
 |     | Frihddwn  |    1 | Dec 31         |
 
-## Origin in seasonal & lunar cycles
+## Origin
 
 The people of Logand understand that their calendar is based on lunar cycles:
 every month the moon is in the same position in the sky for a given day.
