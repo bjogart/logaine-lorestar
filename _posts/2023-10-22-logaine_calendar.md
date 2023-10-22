@@ -1,7 +1,12 @@
 ---
 title: The months of Logand
-tags: calendar history
+tags: calendar
 ---
+
+Logand uses its own calendar with days, weeks, and months.
+This calendar is not universally adopted throughout the world
+but a derivative calendar finds use among sailors and navigators
+because it synchronizes well with certain natural events.
 
 Each year counts 364 days.
 These days are neatly split up into 13 months of 28 days each.
