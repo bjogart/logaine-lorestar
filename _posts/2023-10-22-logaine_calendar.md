@@ -15,30 +15,30 @@ Put Frihddwn with the year before it
 and the full calendar counts 365 days.
 (How convenient!)
 
-| ord | month         | days | Gregorian      |
-| --: | ------------- | ---: | -------------- |
-|   1 | [[Irtham]]    |   28 | Jan 01--Jan 28 |
-|   2 | [[Marnyn]]    |   28 | Jan 29--Feb 25 |
-|   3 | [[Twiccyn]]   |   28 | Feb 26--Mar 25 |
-|   4 | [[Arfennyn]]  |   28 | Mar 26--Apr 22 |
-|   5 | [[Thaefor]]   |   28 | Apr 23--May 20 |
-|   6 | [[Hraeddan]]  |   28 | May 21--Jun 17 |
-|   7 | [[Iernyn]]    |   28 | Jun 18--Jul 15 |
-|   8 | [[Tohlakan]]  |   28 | Jul 16--Aug 12 |
-|   9 | [[Galdarfol]] |   28 | Aug 13--Sep 09 |
-|  10 | [[Dohmyn]]    |   28 | Sep 10--Oct 07 |
-|  11 | [[Relass]]    |   28 | Oct 08--Nov 04 |
-|  12 | [[Sniddan]]   |   28 | Nov 05--Dec 02 |
-|  13 | [[Heffyn]]    |   28 | Dec 03--Dec 30 |
-|     | [[Frihddwn]]  |    1 | Dec 31         |
+| ord | month     | days | Gregorian      |
+| --: | --------- | ---: | -------------- |
+|   1 | Irtham    |   28 | Jan 01--Jan 28 |
+|   2 | Marnyn    |   28 | Jan 29--Feb 25 |
+|   3 | Twiccyn   |   28 | Feb 26--Mar 25 |
+|   4 | Arfennyn  |   28 | Mar 26--Apr 22 |
+|   5 | Thaefor   |   28 | Apr 23--May 20 |
+|   6 | Hraeddan  |   28 | May 21--Jun 17 |
+|   7 | Iernyn    |   28 | Jun 18--Jul 15 |
+|   8 | Tohlakan  |   28 | Jul 16--Aug 12 |
+|   9 | Galdarfol |   28 | Aug 13--Sep 09 |
+|  10 | Dohmyn    |   28 | Sep 10--Oct 07 |
+|  11 | Relass    |   28 | Oct 08--Nov 04 |
+|  12 | Sniddan   |   28 | Nov 05--Dec 02 |
+|  13 | Heffyn    |   28 | Dec 03--Dec 30 |
+|     | Frihddwn  |    1 | Dec 31         |
 
 ## Origin in seasonal & lunar cycles
 
 The people of Logand understand that their calendar is based on lunar cycles:
 every month the moon is in the same position in the sky for a given day.
 Frihddwn came about as a cultural phenomenon.
-The moon is not a cultural phenomenon,
-and because of that the moon phase shifts by one day between years.
+The moon, as it happens, is not a cultural phenomenon,
+and because of it the moon phase shifts by one day between years.
 
 | moon phase      | days |
 | --------------- | ---: |
