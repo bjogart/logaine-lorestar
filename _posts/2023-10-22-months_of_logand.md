@@ -1,5 +1,5 @@
 ---
-title: The months of Logand
+title: Months of Logand
 tags: calendar
 ---
 
