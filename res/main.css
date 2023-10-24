@@ -118,6 +118,7 @@ td {
 
 .img-scaler, img {
   display: block;
-  width: 75%;
+  width: 90%;
+  max-width: 400px;
   margin: 0 auto 0 auto;
 }
