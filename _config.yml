@@ -6,3 +6,6 @@ defaults:
     values:
       layout: "post"
 baseurl: "/logaine-lorestar"
+
+plugins:
+  - jemoji
