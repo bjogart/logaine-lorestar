@@ -116,7 +116,8 @@ td {
   color: gray;
 }
 
-.img-scaler {
+.img-scaler, img {
+  display: block;
   width: 75%;
-  text-align: center;
+  margin: 0 auto 0 auto;
 }
