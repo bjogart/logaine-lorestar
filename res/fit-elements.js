@@ -10,6 +10,6 @@ for (img of document.getElementsByTagName("img")) {
   let wrapper = document.createElement("div");
   wrapper.classList.add("img-scaler");
 
-  table.parentNode.insertBefore(wrapper, img);
+  img.parentNode.insertBefore(wrapper, img);
   wrapper.appendChild(img);
 }
