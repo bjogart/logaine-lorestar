@@ -1,6 +1,6 @@
 ---
 title: Months of Logand
-tags: calendar
+tags: calendar logand
 ---
 
 Logand uses its own calendar with days, weeks, and months.
