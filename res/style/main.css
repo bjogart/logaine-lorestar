@@ -115,6 +115,9 @@ a:hover {
 
 table {
   margin: 0.2rem auto 1rem auto;
+
+  width: 100%;
+
   border-collapse: collapse;
 }
 
