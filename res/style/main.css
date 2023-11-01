@@ -42,7 +42,7 @@ blockquote>em {
   font-style: normal;
 }
 
-h1, h2, h3 {
+h1, h2, h3, h4 {
   line-height: 1em;
 
   color: #323232;
@@ -59,7 +59,7 @@ h1 {
   font-weight: 900;
 }
 
-h2, h3 {
+h2, h3, h4 {
   margin: 1.5rem 0 0.5rem 0;
 
   font-family: 'Encode Sans SC', sans-serif;
@@ -76,15 +76,15 @@ h3 {
   font-size: 1.6rem;
 }
 
+h4 {
+  font-size: 1.1rem;
+}
+
 a {
   color: inherit;
   text-decoration: none;
   font-family: 'Vollkorn SC', serif;
   text-transform: lowercase;
-}
-
-th>a, td>a {
-  font-family: 'Encode Sans SC', sans;
 }
 
 a:hover {
@@ -114,10 +114,9 @@ a:hover {
 }
 
 table {
-  margin: 0.2rem auto 1rem auto;
-
   width: 100%;
 
+  margin: 0.2rem auto 1rem auto;
   border-collapse: collapse;
 }
 
@@ -129,6 +128,8 @@ th {
   font-variant-numeric: tabular-nums;
 
   padding: 0.2rem 0.4rem;
+
+  color: #323232;
 
   border-bottom: 3px solid #323232;
 }
