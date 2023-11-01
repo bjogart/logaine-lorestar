@@ -83,6 +83,10 @@ a {
   text-transform: lowercase;
 }
 
+th>a, td>a {
+  font-family: 'Encode Sans SC', sans;
+}
+
 a:hover {
   background-color: #FAEBEC;
   transition-property: background;
@@ -122,8 +126,6 @@ th {
   font-variant-numeric: tabular-nums;
 
   padding: 0.2rem 0.4rem;
-
-  color: #323232;
 
   border-bottom: 3px solid #323232;
 }
