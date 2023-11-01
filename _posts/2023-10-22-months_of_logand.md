@@ -20,6 +20,8 @@ Put Frihddwn with the year before it
 and the full calendar counts 365 days.
 (How convenient!)
 
+#### Logaine Months
+
 | ord | month     | days | Gregorian      |
 | --: | --------- | ---: | -------------- |
 |   1 | Irtham    |   28 | Jan 01--Jan 28 |
@@ -37,13 +39,15 @@ and the full calendar counts 365 days.
 |  13 | Heffyn    |   28 | Dec 03--Dec 30 |
 |     | Frihddwn  |    1 | Dec 31         |
 
-## Origin
+## Lunar Origins of the Calendar
 
 The people of Logand understand that their calendar is based on lunar cycles:
 every month the moon is in the same position in the sky for a given day.
 Frihddwn came about as a cultural phenomenon.
 The moon, as it happens, is not a cultural phenomenon,
 and because of it the moon phase shifts by one day between years.
+
+#### Moon Phases Relative to the New Moon
 
 | moon phase      | days |
 | --------------- | ---: |
