@@ -19,9 +19,9 @@
   hyphens: auto;
 }
 
-@media all and (min-width: 1000px) { html { font-size: 25px; } body { max-width: 1000px; } }
+@media all and (min-width: 1000px) { :root { font-size: 25px; } body { max-width: 1000px; } }
 
-@media all and (max-width: 520px) { html { font-size: 18px; } }
+@media all and (max-width: 520px) { :root { font-size: 18px; } }
 
 .pagenav {
   margin: 2rem 0 2rem 0;
