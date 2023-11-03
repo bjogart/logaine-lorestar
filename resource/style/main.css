@@ -157,3 +157,9 @@ td+td {
 tbody>tr:nth-child(odd) {
   background-color: var(--highlight);
 }
+
+th>a,td>a {
+  font-family: 'Encode Sans SC', serif;
+  text-transform: lowercase;
+  letter-spacing: 0.04em;
+}
