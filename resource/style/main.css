@@ -1,4 +1,10 @@
-html {
+:root {
+  --fg: #fcfaf4;
+  --bg: #121212;
+  --h: #282828;
+  --deco: #afafaf;
+  --highlight: #efeadc;
+
   margin: 0 2rem 10rem 2rem;
 
   font-family: 'Vollkorn', serif;
@@ -6,8 +12,8 @@ html {
   line-height: 1.4em;
   font-variant-numeric: oldstyle-nums;
 
-  background-color: #fcfaf4;
-  color: #121212;
+  background-color: var(--fg);
+  color: var(--bg);
 
   text-align: justify;
   hyphens: auto;
@@ -26,7 +32,7 @@ html {
   text-transform: lowercase;
   text-align: center;
 
-  color: #afafaf;
+  color: var(--deco);
 }
 
 p {
@@ -45,7 +51,7 @@ blockquote>em {
 h1, h2, h3, h4 {
   line-height: 1em;
 
-  color: #323232;
+  color: var(--h);
 
   hyphens: none;
   text-align: left;
@@ -88,13 +94,13 @@ a {
 }
 
 a:hover {
-  background-color: #FAEBEC;
+  background-color: var(--highlight);
   transition-property: background;
   transition-duration: 0.2s;
 }
 
 .date {
-  color: #868686;
+  color: var(--deco);
 }
 
 .img-scaler, img {
@@ -129,9 +135,9 @@ th {
 
   padding: 0.2rem 0.4rem;
 
-  color: #323232;
+  color: var(--h);
 
-  border-bottom: 3px solid #323232;
+  border-bottom: 3px solid var(--h);
 }
 
 td {
@@ -145,9 +151,9 @@ td {
 }
 
 td+td {
-  border-left: 3px solid #323232;
+  border-left: 3px solid var(--h);
 }
 
 tbody>tr:nth-child(odd) {
-  background-color: #EFEADC;
+  background-color: var(--highlight);
 }
