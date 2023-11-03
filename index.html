@@ -3,7 +3,7 @@ title: Home
 layout: default
 ---
 
-<h2>Posts by date</h2>
+<h2>Posts by Date</h2>
 <ul>
   {% for post in site.posts %}
   <li>
@@ -15,7 +15,7 @@ layout: default
   {% endfor %}
 </ul>
 
-<h2>Posts by tag</h2>
+<h2>Posts by Tag</h2>
 {% assign tags = site.tags | sort %}
 {% for tag in tags %}
 {% assign t = tag | first %}
