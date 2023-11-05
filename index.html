@@ -20,7 +20,7 @@ layout: default
 {% for tag in tags %}
 {% assign t = tag | first %}
 {% assign posts = tag | last %}
-<h3>{{ t }}</h3>
+<h4>{{ t }}</h4>
 <ul>
   {% for post in posts %}
   {% if post.tags contains t %}
