@@ -7,9 +7,9 @@ Strongholds & Followers is the title of a [book].
 Which was written and printed under the discerning eye of a [bugbear],
 and which is probably the most _fun_ rulebook I read for our Most Played Version of World's Most Advertised Roleplaying Game.
 
-Great guy (the bugbear).
+He has some pretty neat DM-ing shtick on his channel.
 
-Great beard.
+And the rules are super evocative.
 
 And the rules are super evocative.
 
