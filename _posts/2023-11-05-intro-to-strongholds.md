@@ -11,8 +11,6 @@ He has some pretty neat DM-ing shtick on his channel.
 
 And the rules are super evocative.
 
-And the rules are super evocative.
-
 You get to be an Owner of Sizeable Property
 and is that not the real fantasy?
 
