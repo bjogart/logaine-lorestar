@@ -22,42 +22,48 @@ and you will probably find followers during the playing of the game[^march].
 
 ## Strongholds and You
 
-The idea of a stronghold is that it is a base,
-a place where you occasionally touch base and interface with Lesser Beings
+The idea of a stronghold is that you get
+a place to build,
+a place where you govern and interface with Lesser Beings,
 and a place you can return to and Brood if things don't go your way.
 
 Your stronghold will be based in the ruins of the Ashen Keep,
-but do not let that stop you from building something different than a keep.
-Who knows? You could make it into a _really large_ smith's workshop.
-Just keep in mind that the terminology is here for the benefit of understanding the rules, not the fantasy.
-You say Temple[^run], but your 1st-level Temple is not yet a grand edifice of marble pillars and golden statues!
-Two-room chapel is more like it.
+but do not let that stop you from building something completely different.
+Who knows?
+You could make it into a _really large_ smith's workshop.
+Just keep in mind that the terminology I use _here_ is different from the terminology _there_:
+you might build an Establishment in the Ashen Keep,
+but remains an Establishment, not a Keep.
+And on that note:
+you say Temple[^run],
+but that 1st-level Temple is not a grand edifice of marble pillars and golden statues!
+"Two-room chapel" is probably closer to the truth.
 Rome was not built in a day
 and neither are cathedrals (although I _hope_ fewer sackings will be involved).
 It is just so for other strongholds.
 A 1st-level Keep is not a functioning castle---
 take your Ashen Keep, fill in the gaps with lumber, add a palisade, and that is what you get.
 Your 1st-level Tower is built on top of the watchtower
-but most of the money goes to a functioning roof, blast lining, and filling in the missing bricks.
-You have to upgrade your stuff to keep it competitive and get that Cathedral-Temple is what I'm saying.
+but most of the money goes to a functioning roof, blastproof lining, and filling in the missing bricks.
+You have to buy upgrades and boost the economy if you want that Cathedral-Temple.
 
 ### Who Builds? Who Benefits?
 
 There is space in and around the Bolderwood for a stronghold or three.
-Unfortunately it is _really hard to focus on spell research_
+Unfortunately it is **really hard to focus on spell research**
 if troops are doing drills right outside your window
-AND your lab partner is inventing dynamite.
+AND your lab partner is testing their "dynamite" invention.
 Thus the following rule:
 only one character benefits from one stronghold facility at a time.
 One Tower, one researcher.
 If you want more spells researched in the same amount of time,
-build another tower.
+build a second tower.
 
-You can switch who benefits from which facility though:
-the _extended rest_.
-We define these as a continuous period of a week or longer spent governing and generally around your base.
-As part of it,
-you can switch who governs what stronghold and who reaps the rewards.
+You can switch who benefits from which facility though when you take an _extended rest_.
+We define these as a continuous period of a week or longer spent governing
+and generally hanging around your base.
+The extended rest will be used to recharge some abilities as well,
+so Keep it in mind.
 
 #### Keeps & Cost
 
