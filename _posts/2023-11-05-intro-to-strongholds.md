@@ -6,13 +6,11 @@ tags: strongholds
 Strongholds & Followers is the title of a [book].
 Which was written and printed under the discerning eye of a [bugbear],
 and which is probably the most _fun_ rulebook I read for our Most Played Version of World's Most Advertised Roleplaying Game.
+Fun compared to the other rulebooks,
+which, if nothing else, are less inspiring than this one.
 
-He has some pretty neat DM-ing shtick on his channel.
-
-And the rules are super evocative.
-
-You get to be an Owner of Sizeable Property
-and is that not the real fantasy?
+What can I say?
+Being an Owner of Sizeable Property is just evocative fantasy, you know?
 
 But to the point, these rules consist of two parts.
 There are two main topics covered in Ye Olde Booke.
