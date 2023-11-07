@@ -7,7 +7,7 @@
 
   margin: 0 2rem 10rem 2rem;
 
-  font-family: 'Vollkorn', serif;
+  font-family: "Vollkorn", serif;
   font-size: 2.5vw;
   line-height: 1.4em;
   font-variant-numeric: oldstyle-nums;
@@ -19,14 +19,25 @@
   hyphens: auto;
 }
 
-@media all and (min-width: 1000px) { :root { font-size: 25px; } body { max-width: 1000px; } }
+@media all and (min-width: 1000px) {
+  :root {
+    font-size: 25px;
+  }
+  body {
+    max-width: 1000px;
+  }
+}
 
-@media all and (max-width: 520px) { :root { font-size: 18px; } }
+@media all and (max-width: 520px) {
+  :root {
+    font-size: 18px;
+  }
+}
 
 .pagenav {
   margin: 2rem 0 2rem 0;
 
-  font-family: 'Vollkorn SC', serif;
+  font-family: "Vollkorn SC", serif;
   font-size: 3.7rem;
   line-height: 1em;
   text-transform: lowercase;
@@ -39,9 +50,23 @@ p {
   margin: 0 0 0.8rem 0;
 }
 
-ul, ol {
+ul,
+ol {
   margin: 0 0 0.8rem 0;
   padding: 0;
+}
+
+li {
+  margin: 0 0 0 0.5rem;
+  padding: 0 0 0 0.25rem;
+}
+
+ul > li {
+  list-style-type: disc;
+}
+
+ul > li::marker {
+  font-family: "Vollkorn", sans-serif;
 }
 
 blockquote {
@@ -49,11 +74,14 @@ blockquote {
   font-style: italic;
 }
 
-blockquote>em {
+blockquote > em {
   font-style: normal;
 }
 
-h1, h2, h3, h4 {
+h1,
+h2,
+h3,
+h4 {
   line-height: 1em;
 
   color: var(--h);
@@ -65,15 +93,17 @@ h1, h2, h3, h4 {
 h1 {
   margin: 0 0 0.8rem 0;
 
-  font-family: 'Grenze Gotisch', serif;
+  font-family: "Grenze Gotisch", serif;
   font-size: 4rem;
   font-weight: 900;
 }
 
-h2, h3, h4 {
+h2,
+h3,
+h4 {
   margin: 1.5rem 0 0.5rem 0;
 
-  font-family: 'Encode Sans SC', sans-serif;
+  font-family: "Encode Sans SC", sans-serif;
   font-weight: 700;
   letter-spacing: 0.04em;
   line-height: 1.25em;
@@ -94,7 +124,7 @@ h4 {
 a {
   color: inherit;
   text-decoration: none;
-  font-family: 'Vollkorn SC', serif;
+  font-family: "Vollkorn SC", serif;
   text-transform: lowercase;
 }
 
@@ -108,7 +138,8 @@ a:hover {
   color: var(--deco);
 }
 
-.img-scaler, img {
+.img-scaler,
+img {
   display: block;
   width: 90%;
   max-width: 400px;
@@ -132,7 +163,7 @@ table {
 }
 
 th {
-  font-family: 'Encode Sans', sans;
+  font-family: "Encode Sans", sans-serif;
   font-weight: 700;
   line-height: 1.45em;
 
@@ -146,7 +177,7 @@ th {
 }
 
 td {
-  font-family: 'Encode Sans', sans;
+  font-family: "Encode Sans", sans-serif;
   font-weight: 400;
   line-height: 1.45em;
 
@@ -155,16 +186,25 @@ td {
   padding: 0.2rem 0.4rem;
 }
 
-td+td {
+td + td {
   border-left: 3px solid var(--h);
 }
 
-tbody>tr:nth-child(odd) {
+tbody > tr:nth-child(odd) {
   background-color: var(--highlight);
 }
 
-th>a,td>a {
-  font-family: 'Encode Sans SC', serif;
+table a {
+  font-family: "Encode Sans SC", sans-serif;
   text-transform: lowercase;
   letter-spacing: 0.04em;
+}
+
+table ul,
+table ol {
+  margin: 0;
+}
+
+table ul > li::marker {
+  font-family: "Encode Sans", sans-serif;
 }
