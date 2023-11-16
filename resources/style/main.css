@@ -51,9 +51,16 @@ p {
 }
 
 ul,
-ol {
+ol,
+dl {
   margin: 0 0 0.8rem 0;
   padding: 0;
+}
+
+ul ul, ul ol, ul dl
+, ol ul, ol ol, ol dl
+dl ul, dl ol, dl dl {
+  margin: 0 0 0 0;
 }
 
 li {
@@ -201,7 +208,8 @@ table a {
 }
 
 table ul,
-table ol {
+table ol,
+table dl, {
   margin: 0;
 }
 
