@@ -126,7 +126,6 @@ A scrap of notebook details a Sending between Councilor Fridugar and Archibald.
 Fridugar inquires as to Archibald's progress,
 the response to which is noted:
 
-> Progress is slow.
 > Violent creatures dwell here.
 > Progress is slow: aid is welcome.
 > Minor discoveries,
