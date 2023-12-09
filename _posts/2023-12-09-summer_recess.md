@@ -43,7 +43,7 @@ with due benefits of health insurance and sickness leave.
 
 The story of the final unit is an odd one;
 they were elves from Kajuron,
-Ensojil ("censors" or "assassins") sent to deal with the naga that ran amuck in Marcester.
+Ensojil ("censors") sent to deal with the naga that ran amuck in Marcester.
 Under the command of Tajan they set out to do just that,
 but due to temporal disturbances they were displaced into the future
 after the Council had settled the issue already.
@@ -62,7 +62,6 @@ who was still alive and healthy a good 3 months after tutoring the Councilor.
 In fact, it appears that they had a meeting of sorts while the Ashen Keep was under construction.
 During this meeting Wulfstan appears to have made a personal request of Fridugar,
 to acquire a certain volume.
-"The Effects of the Hunter's Gold on the Human Body"
 During this time it appears that a closely guarded copy of the tome was available in Task,
 though the Chained Knights were under...
 
@@ -80,7 +79,7 @@ the slowness of the military apparatus,
 and the need to Call the Vanguard.
 Initial response was...
 
-### On Golems in Northern Logand had
+### On Artificial Unintelligence in Northern Logand
 
 ...by this point Grosvenor Kannard III had shown off his Dragon Knight Golems
 to at least such a degree it became somewhat common belief he had resurrected the Dragon Knights.
