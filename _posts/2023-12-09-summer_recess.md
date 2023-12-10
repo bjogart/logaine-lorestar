@@ -16,7 +16,7 @@ Such That Their Service to the Kingdom of Logand
 in Matters of State and Security
 Shall Not Go Unrewarded by Those That Follow in Their Footsteps
 and Those Who Benefit from This Diligence.
-A Humble Listicle of Services to the Marsh of Marcester._
+A Humble Listicle of Services to the Marsh of Marcester,_
 is a history book recently unearthed from the archives of Task,
 written by a hack historian
 and donated by a collector of coffee table books.
