@@ -24,7 +24,7 @@ layout: default
 <ul>
   {% for post in posts %}
   {% if post.tags contains t %}
-  <li>
+  <li style="list-style-type: none;">
     <a href="{{ post.url | relative_url }}">
       {{ post.title }}
       <span class="date">{{ post.date | date: "%b %d, %Y" }}</span>
