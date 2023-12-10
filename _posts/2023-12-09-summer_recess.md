@@ -1,11 +1,28 @@
 ---
-title: "Summer Recess; Or a History of Events Following the Formation of the Council of Ash, after Machswmna in the Year 776 and up To, but Not Exceeding the Solstice, in Particular Those Events of Lesser and Greater Import Witnessed and Recorded by Council-Members, Such That Their Service to the Kingdom of Logand in Matters of State and Security Shall Not Go Unrewarded by Those That Follow in Their Footsteps and Those Who Benefit from This Diligence. A Humble Listicle of Services to the Marsh of Marcester."
+title: Summer Recess
 tags: downtime
 ---
 
-The following are excerpts of a history book unearthed from the archives of Task,
+Summer Recess, full name
+_Summer Recess;
+Or a History of Events
+Following the Formation of the Council of Ash,
+after Machswmna in the Year 776
+and up To, but Not Exceeding the Solstice,
+in Particular Those Events
+of Lesser and Greater Import
+Witnessed and Recorded by Council-Members,
+Such That Their Service to the Kingdom of Logand
+in Matters of State and Security
+Shall Not Go Unrewarded by Those That Follow in Their Footsteps
+and Those Who Benefit from This Diligence.
+A Humble Listicle of Services to the Marsh of Marcester._
+is a history book recently unearthed from the archives of Task,
 written by a hack historian
 and donated by a collector of coffee table books.
+
+The following are legible excerpts that remain from the book.
+What could they be referring to??
 
 ### On the Council's Formation and Troops
 
