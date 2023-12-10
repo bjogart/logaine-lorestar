@@ -1,6 +1,6 @@
 ---
 title: Intro to Strongholds
-tags: strongholds
+tags: strongholds homebrew
 ---
 
 Strongholds & Followers is the title of a [book].
