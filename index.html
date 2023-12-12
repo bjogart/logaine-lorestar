@@ -6,7 +6,7 @@ layout: default
 <h2>Posts by Date</h2>
 <ul>
   {% for post in site.posts %}
-  <li>
+  <li style="list-style-type: none;">
     <a href="{{ post.url | relative_url }}">
       {{ post.title }}
       <span class="date">{{ post.date | date: "%b %d, %Y" }}</span>
