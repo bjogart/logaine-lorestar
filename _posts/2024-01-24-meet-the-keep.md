@@ -3,10 +3,10 @@ title: Meet the Keep
 tags: strongholds
 ---
 
-<dl>
-  <dt>Keep (2 of 2)</dt>
-  <dd>the means or provisions by which one is kept[^Keep]</dd>
-</dl>
+
+> Keep (2 of 2)
+>
+> the means or provisions by which one is kept [^keep]
 
 The point of a Keep is that it is defensible and sturdy.
 It tells people "someone is here, they are comfy, and they are not leaving".
@@ -152,13 +152,13 @@ That leaves two keywords:
   you can freely upgrade your units' equipment as long as you can afford to
   though you are limited to one upgrade per unit per extended rest.
 
-  ![The power of cold, hard cash compels you!]({{ site.baseurl }}/resources/post/2024-01-24-meet-the-keep-/the_power_of_cold_hard_cash_compels_you.jpg)
+  ![The power of cold, hard cash compels you!]({{ site.baseurl }}/resources/post/2024-01-24-meet-the-keep-the_power_of_cold_hard_cash_compels_you.jpg)
 
 Whenever your units,
 their stats and their value increase,
 meaning their upKeep will increase as well.
-A unit's tier never improves;
-it is more of an indication how exclusive a unit is compared to their peers.
+A unit's tier never increases;
+it is more an indication how exclusive a unit is compared to its peers.
 
 #### Experience
 
@@ -179,4 +179,4 @@ it is more of an indication how exclusive a unit is compared to their peers.
 | heavy       | 1000 &times; tier |
 | super-heavy |               --- |
 
-[^Keep]: <https://www.merriam-webster.com/dictionary/keep#dictionary-entry-2>
+[^keep]: <https://www.merriam-webster.com/dictionary/keep#dictionary-entry-2>
