@@ -61,9 +61,9 @@ You can switch who benefits from which facility though when you take an _extende
 We define these as a continuous period of a week or longer spent governing
 and generally hanging around your base.
 The extended rest will be used to recharge some abilities as well,
-so Keep it in mind.
+so keep it in mind.
 
-#### Keeps & Cost
+#### Strongholds & Costs
 
 | Type          |   Build |     Lv2 |
 | ------------- | ------: | ------: |
@@ -77,13 +77,13 @@ You pay for each facility separately
 plus a surcharge equal to 10% times the number of facilities total.
 If you add another facility later, you pay the difference.
 The extra costs cover the soundproof windows
-that you Tower-dwellers will learn to appreciate once your Keep-er begins their daily drills.
+that you Tower-dwellers will learn to appreciate once your keeper begins their daily drills.
 
 > Dridugar decides it would be swell to have a Keep-Temple complex
 > like Saint Gwydion's temple back home.
 > They polls the local carpenter's guild who send an invoice back
 > for (1 + 0.1 &times; 2 (facilities)) &times; (1,500 (keep) + 1,250 (temple)) = 3,300 silver pieces.
-
+>
 > Once Dridugar's Fancy TempleKeep is built
 > their friend Fiogo senses a chance of chicanery and orders a Tower for cheap.
 > The cunning and handsome GM however sees through Fiogo's foibles.
