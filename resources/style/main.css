@@ -1,17 +1,18 @@
 :root {
-  --fg: #fcfaf4;
-  --bg: #121212;
+  --bg: #fcfaf4;
+  --fg: #121212;
   --h: #282828;
   --deco: #afafaf;
   --highlight: #efeadc;
+  --highlight-dark: #dbd0b0;
 
   margin: 0 2rem 10rem;
 
-  background-color: var(--fg);
-  color: var(--bg);
+  background-color: var(--bg);
+  color: var(--fg);
 
   font-family: Vollkorn, serif;
-  font-size: 2.5vw;
+  font-size: 2.4vw;
   line-height: 1.4em;
   font-variant-numeric: oldstyle-nums;
 
@@ -20,7 +21,7 @@
 }
 
 @media all and (width >= 1000px) {
-  :root { font-size: 25px; }
+  :root { font-size: 24px; }
   body { max-width: 1000px; }
 }
 
@@ -41,8 +42,7 @@
 
 .img-scaler, img {
   display: block;
-  width: 90%;
-  max-width: 400px;
+  max-height: 40vh;
   margin: 0 auto;
 }
 
@@ -100,7 +100,7 @@ h1 {
   margin: 0 0 0.8rem;
 
   font-family: "Grenze Gotisch", fantasy;
-  font-size: 4rem;
+  font-size: 3rem;
   font-weight: 900;
 }
 
@@ -113,9 +113,15 @@ h2, h3, h4 {
   line-height: 1.25em;
 }
 
-h2 { font-size: 2.25rem; }
-h3 { font-size: 1.6rem; }
-h4 { font-size: 1.1rem; }
+h2 { font-size: 1.5rem; }
+h3 { font-size: 1.1rem; }
+
+h4 {
+  font-size: 1rem;
+  font-family: "Encode Sans", sans-serif;
+  font-weight: 700;
+  text-transform: lowercase;
+}
 
 ul, ol, dl {
   margin: 0 0 0.8rem;
@@ -153,7 +159,7 @@ table a {
 }
 
 a:hover {
-  background-color: var(--highlight);
+  background-color: var(--highlight-dark);
   transition-property: background;
   transition-duration: 0.2s;
 }
