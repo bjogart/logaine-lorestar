@@ -2,19 +2,24 @@
 <html lang="en">
   <head>
     <meta charset="utf-8" />
-    <title>Logaine Lorestar | {{ page.title }}</title>
+    <title>{{ page.title }}</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link
-      rel="shortcut icon"
-      href="{{ "/resources/img/ico.png" | relative_url }}"
-      type="image/png"
-    />
-    <link rel="stylesheet" href="{{ "/resources/style/font.css" | relative_url }}" />
-    <link rel="stylesheet" href="{{ "/resources/style/main.css" | relative_url }}" />
+    <link rel="preload" as="font" crossorigin href="../font/grenze-gotisch-v18-latin_latin-ext-900.woff2">
+    <link rel="preload" as="font" crossorigin href="../font/vollkorn-v23-latin_latin-ext-regular.woff2">
+    <link rel="preload" as="font" crossorigin href="../font/vollkorn-v23-latin_latin-ext-italic.woff2">
+    <link rel="preload" as="font" crossorigin href="../font/vollkorn-v23-latin_latin-ext-700.woff2">
+    <link rel="preload" as="font" crossorigin href="../font/vollkorn-sc-v11-latin_latin-ext-regular.woff2">
+    <link rel="preload" as="font" crossorigin href="../font/vollkorn-sc-v11-latin_latin-ext-700.woff2">
+    <link rel="preload" as="font" crossorigin href="../font/encode-sans-v19-latin_latin-ext-regular.woff2">
+    <link rel="preload" as="font" crossorigin href="../font/encode-sans-v19-latin_latin-ext-700.woff2">
+    <link rel="preload" as="font" crossorigin href="../font/encode-sans-sc-v9-latin_latin-ext-regular.woff2">
+    <link rel="preload" as="font" crossorigin href="../font/encode-sans-sc-v9-latin_latin-ext-700.woff2">
+    <link rel="stylesheet" href="{{ "/resources/style/font.css" | relative_url }}" >
+    <link rel="stylesheet" href="{{ "/resources/style/main.css" | relative_url }}" >
   </head>
   <body>
     <div class="pagenav"><a href="{{ site.baseurl }}">Logaine Lorestar</a></div>
-    {{ content }}
     <script src="{{ "/resources/script/fit-elements.js" | relative_url }}"></script>
+    {{ content }}
   </body>
 </html>
