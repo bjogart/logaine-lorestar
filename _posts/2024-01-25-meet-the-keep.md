@@ -9,7 +9,7 @@ tags: strongholds
 > the means or provisions by which one is kept [^keep]
 
 The point of a Keep is that it is defensible and sturdy.
-It tells people "someone is here, they are comfy, and they are not leaving".
+It tells people "Someone is here, they are comfy, and they are not leaving".
 
 This will not stop everybody.
 But for those who remain undeterred,
@@ -19,38 +19,31 @@ When you built your Keep,
 you scrounged up a smattering of troops,
 and you can spend money to advertise and recruit more.
 You also spend money to get your troops better equipment and training.
+Troops protect your stronghold
+unless you order them to perform some other task.
 
-Troops protect your stronghold,
-and we assume you spend some of your "free" time to train them.
-Your army is your army:
+Your army is your _army_:
 they follow your orders.
-Order them to clear an area of nasties,
+Order them to clear an area of nasties
 or conquer the lands of that annoying neighbor.
 They are soldiers, though, not adventurers!
-In their contract is says they do not have to delve into a dungeon if they do not consent,
-nor do they have to solve ethical quandaries,
-or buy 40 sets of rations,
+In their contract it says they do not have to delve into a dungeon without consent,
+and neither do they have to solve ethical quandaries,
 or perform barely legal actions,
-like adventurers like yourselves tend to do.
+like adventurers.
 
 ## Stronghold BookKeeping
 
-Building and maintaining a castle and an army takes time and money;
-but, that said, I'd rather Keep my campaign spreadsheet-free.
-
-Assume the people that live around your stronghold pay taxes,
+Assume the people that live around your stronghold pay taxes
 or provide labor that help maintain your facilities.
-(That also means you should not levy more to line your pockets!
-Good chance they move out if you do.)
-Your troops,
-when they are not in active service,
-earn their Keep by doing other tasks your burgeoning community needs them to do:
-standing guard,
-looking important,
-or Keeping the area free of nasty monsters.
-All this earns you exactly enough money to maintain your Keep,
-and enough to pay a modest salary of your army units.
-(Enough to Keep them from instigating a revolt against your rule.)
+(That also means you should not levy more!)
+When your troops are not in active service,
+they earn their Keep by performing other tasks your community needs them to do:
+standing guard or Keeping the area free of nasty monsters.
+The revenue gained this way is enough for your troops to earn their Keep
+and maintain your Keep at its current level.
+
+If you want to improve your Keep, though, read on.
 
 ### Keep Level
 
@@ -75,44 +68,48 @@ Upgrading your Keep is something you can do during an _extended rest_
 
 You pay the required amount,
 and your architects and artisans will do the rest.
-Building takes time,
-the amount depends on your Keep's level and the situation.
+Building takes  some time,
+the exact amount depends the situation.
 
 ### Recruitment
 
 You can advertise to recruit units:
-tell your GM what you are looking for,
-and your GM gets back to you with applicants.
-Choose one or more,
-pay their cost,
+figure out what units you are looking for.
+Units who feel they fit the bill will arrive at your Keep
+and you decide whether they fit the bill.
+
+Once you are happy enough to hire a unit,
+pay them their full cost
 and now they are one of your units!
-You are provided with a fancy-looking unit card
-and you are free to order your new troop around
-however you see fit.
+Order your new troop around however you see fit.
 
 ### UpKeep
 
 Every soldier in your service earns their own salary.
 You need not pay them extra,
-though I am sure they would appreciate it!
+though they they would surely appreciate it!
 You _do_ pay for equipment repair
 and training costs,
 which amounts to 10% of a unit's initial cost every month.
 
-I will notify you
-when a month begins in-game,
-At that time you pay the total for all your units.
-If you are unable to afford ,
-you will be requested to please disband units until you
-until you can afford to pay the upKeep of your remaining units.
+> For example, say you have units worth 440sp, 573sp, 500sp, and 595sp.
+> Their total value is 440 + 573 + 500 + 595 = 2108.
+> 10% of 2108 is 210.8sp.
+
+We do this bookkeeping whenever you take an extended rest the first time each month.
+If you are unable to afford to pay for a unit
+then they go Bust:
+they have disadvantage on all checks.
+This unit will stay Busted until you make up the difference.
+If you fail to pay a Busted unit again,
+they will disband.
 
 ### Bettering Your Units
 
-Having these fun unit cards is fine and dandy,
-but there is a good chance you will one day force them to fight a war on your behalf,
-and---assuming you are playing for Keeps---
-it is wise to upgrade your troops,
-which is another thing you can do during an extended rest.
+There is a good chance you will one day need your units to fight a war on your behalf
+and---if you play for Keeps---
+it would be wise to upgrade your troops.
+This is another thing you can do during an extended rest.
 
 When you look at a unit card,
 there should be a line like
@@ -123,8 +120,8 @@ is the unit's type.
 It cannot be upgraded or sidegraded.
 
 The second one, _human_,
-notes what species your soldiers belong to.
-I tried to Google _"upgrade species"_
+is an indication of the species to which soldiers in the unit belong.
+To be certain I Googled _"upgrade\ species"_
 ---this one is off-limits.
 
 That leaves two keywords:
@@ -134,8 +131,9 @@ That leaves two keywords:
   Attack, Defense, Morale, Command,
   and _very_ experienced units can even make more attacks in a single turn.
 
-  Experience, here, does mean the kind you get from real situation.
-  Training drills will not improve it; only battles will.
+  Experience means the kind you get from real situations.
+  Training drills will not improve it;
+  only battles do.
   A unit must survive a certain number of battles
   before they qualify for that improved experience moniker.
   Once they are qualified,
@@ -143,22 +141,21 @@ That leaves two keywords:
   or you can choose to Keep them at their current level.
 
 - **Light** is the equipment your units are carrying.
-  We don't do _light infantry_ versus _heavy infantry_ here;
-  at least not based on this keyword.
+  We don't do _light cavalry_ versus _heavy cavalry_.
   Heavy equipment is higher quality stuff than light equipment;
+  if you want mobile scout troops,
+  there are unit traits for that.
 
-  To upgrade Attack and Defense you might need the vague currency of "life experience",
-  but if you have the money
-  you can freely upgrade your units' equipment as long as you can afford to
-  though you are limited to one upgrade per unit per extended rest.
+  To upgrade Attack and Defense you might need the vague currency of "life\ experience",
+  but if you have the money,
+  You can freely upgrade your units' equipment if you can afford it.
+  Though a unit is limited to one equipment upgrade per extended rest.
 
-  ![The power of cold, hard cash compels you!]({{ site.baseurl }}/resources/post/2024-01-24-meet-the-keep-the_power_of_cold_hard_cash_compels_you.jpg)
+![The power of cold, hard cash compels you!]({{ site.baseurl }}/resources/post/2024-01-25-meet-the-keep-the_power_of_cold_hard_cash_compels_you.jpg)
 
-Whenever your units,
-their stats and their value increase,
-meaning their upKeep will increase as well.
-A unit's tier never increases;
-it is more an indication how exclusive a unit is compared to its peers.
+Whenever your units improve,
+their stats (and their value) increase,
+so their upKeep increases a little bit as well.
 
 #### Experience
 
