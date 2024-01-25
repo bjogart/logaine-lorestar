@@ -129,7 +129,7 @@ ul, ol, dl {
 }
 
 ul ul, ul ol, ul dl, ol ul, ol ol, ol dl, dl ul, dl ol, dl dl, table ul, table ol, table dl { margin: 0; }
-ul > li::marker { font-family: Vollkorn, sans-serif; }
+ul > li::marker { font-family: Vollkorn, serif; }
 table ul > li::marker { font-family: "Encode Sans", sans-serif; }
 
 li {
