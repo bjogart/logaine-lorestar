@@ -42,7 +42,8 @@
 
 .img-scaler, img {
   display: block;
-  max-height: 40vh;
+  max-height: 45vh;
+  max-width: 80vw;
   margin: 0 auto;
 }
 
@@ -163,3 +164,4 @@ a:hover {
   transition-property: background;
   transition-duration: 0.2s;
 }
+
