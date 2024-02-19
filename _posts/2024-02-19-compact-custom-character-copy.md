@@ -8,7 +8,7 @@ Here are the files associated with that project.
 
 Just a precaution though.
 I like to think I have a tidy computer and that I keep track of my files.
-Yet I make _no guarantees whatsoever_ that I still have these files, or even that they are available on this page.
+But I make _no guarantees whatsoever_ that I still have these files, or even that they are available on this page.
 Who knows? GitHub (the host of this sit) could decide to delete them from their servers tomorrow.
 If you want guaranteed access to these files for the rest of time, I see but one solution:
 
@@ -16,11 +16,11 @@ If you want guaranteed access to these files for the rest of time, I see but one
 
 With that out of the way, here's the files.
 
-|          | Print                   | Digital                   |
-|----------|-------------------------|---------------------------|
-| Diogo    | <{{ site.baseurl }}/resource/post/2024-02-19-compact-custom-character-copy-diogo_print.pdf>    | <{{ site.baseurl }}/resource/post/2024-02-19-compact-custom-character-copy-diogo_digital.pdf>    |
-| Eilanore | <{{ site.baseurl }}/resource/post/2024-02-19-compact-custom-character-copy-eilanore_print.pdf> | <{{ site.baseurl }}/resource/post/2024-02-19-compact-custom-character-copy-eilanore_digital.pdf> |
-| Fridugar | <{{ site.baseurl }}/resource/post/2024-02-19-compact-custom-character-copy-fridugar_print.pdf> | <{{ site.baseurl }}/resource/post/2024-02-19-compact-custom-character-copy-fridugar_digital.pdf> |
+|          | Print                                       | Digital                                         |
+|----------|---------------------------------------------|-------------------------------------------------|
+| Diogo    | [diogo_print.pdf]({{ site.baseurl }}/resource/post/2024-02-19-compact-custom-character-copy-diogo_print.pdf)       | [diogo_digital.pdf]({{ site.baseurl }}/resource/post/2024-02-19-compact-custom-character-copy-diogo_digital.pdf)       |
+| Eilanore | [eilanore_print.pdf]({{ site.baseurl }}/resource/post/2024-02-19-compact-custom-character-copy-eilanore_print.pdf) | [eilanore_digital.pdf]({{ site.baseurl }}/resource/post/2024-02-19-compact-custom-character-copy-eilanore_digital.pdf) |
+| Fridugar | [fridugar_print.pdf]({{ site.baseurl }}/resource/post/2024-02-19-compact-custom-character-copy-fridugar_print.pdf) | [fridugar_digital.pdf]({{ site.baseurl }}/resource/post/2024-02-19-compact-custom-character-copy-fridugar_digital.pdf) |
 
 ## Frequently Asked Questions
 
