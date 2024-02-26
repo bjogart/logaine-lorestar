@@ -15,6 +15,7 @@ If you want guaranteed access to any of these files, download them, put them som
 | Diogo    | [diogo_print_marks.pdf]({{ site.baseurl }}/resource/post/2024-02-26-compact-custom-character-sheets-diogo_print_marks.pdf)       | [diogo_print.pdf]({{ site.baseurl }}/resource/post/2024-02-26-compact-custom-character-sheets-diogo_print.pdf)       | [diogo_digital.pdf]({{ site.baseurl }}/resource/post/2024-02-26-compact-custom-character-sheets-diogo_digital.pdf)       |
 | Eilanore | [eilanore_print_marks.pdf]({{ site.baseurl }}/resource/post/2024-02-26-compact-custom-character-sheets-eilanore_print_marks.pdf) | [eilanore_print.pdf]({{ site.baseurl }}/resource/post/2024-02-26-compact-custom-character-sheets-eilanore_print.pdf) | [eilanore_digital.pdf]({{ site.baseurl }}/resource/post/2024-02-26-compact-custom-character-sheets-eilanore_digital.pdf) |
 | Fridugar | [fridugar_print_marks.pdf]({{ site.baseurl }}/resource/post/2024-02-26-compact-custom-character-sheets-fridugar_print_marks.pdf) | [fridugar_print.pdf]({{ site.baseurl }}/resource/post/2024-02-26-compact-custom-character-sheets-fridugar_print.pdf) | [fridugar_digital.pdf]({{ site.baseurl }}/resource/post/2024-02-26-compact-custom-character-sheets-fridugar_digital.pdf) |
+| Orion    | [orion_print_marks.pdf]({{ site.baseurl }}/resource/post/2024-02-26-compact-custom-character-sheets-orion_print_marks.pdf)       | [orion_print.pdf]({{ site.baseurl }}/resource/post/2024-02-26-compact-custom-character-sheets-orion_print.pdf)       | [fridugar_digital.pdf]({{ site.baseurl }}/resource/post/2024-02-26-compact-custom-character-sheets-fridugar_digital.pdf) |
 
 ### Why multiple versions of one sheet?
 
@@ -53,6 +54,14 @@ Of the top of my head:
 - I originally removed the text elements from Diogo's design for just the inventory sheet so as not to interfere with the writing.
   After consideration I've given the info sheet the same treatment so the text stands out better.
 - One of Fridugar's lists of things to do (TM) had the columns in a different order than all the others, so I swapped those.
+
+### May I have some form-fillable sheets please?
+
+No. 
+Half the reason I began this project is because I want to see you scowl when I force you into a difficult decision and not the back of your laptop :P
+That said, I have looked into it, and these days you can actually make form-fillable PDFs online.
+It's a lot of fiddly mouse-work though---not exactly my style.
+Feel free to make your own, though.
 
 ### Can you change <span style="text-decoration:underline">&nbsp;&nbsp;&nbsp;</span>
 
