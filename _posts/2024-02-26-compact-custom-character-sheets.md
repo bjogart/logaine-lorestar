@@ -54,7 +54,7 @@ Of the top of my head:
   After consideration I've given the info sheet the same treatment so the text stands out better.
 - One of Fridugar's lists of things to do (TM) had the columns in a different order than all the others, so I swapped those.
 
-### Can you change <span style="text-decoration:underline">   </span>
+### Can you change <span style="text-decoration:underline">&nbsp;&nbsp;&nbsp;</span>
 
 A typo? 
 Absolutely.
